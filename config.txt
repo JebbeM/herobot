@@ -1,0 +1,7 @@
+# THIS FILE SHOULD NEVER BE ADDED TO A REPO
+# KEEP IT IN .gitignore
+# IT IS MEANT FOR EASIER LOCAL DEVELOPMENT
+
+[LOCAL]
+token = <insert bot token here>
+chat_id = <insert chat id here>
